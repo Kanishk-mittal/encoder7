@@ -2,4 +2,4 @@
 
 __author__ = """Kanishk mittal"""
 __email__ = "kanishkmittal2005@gmail.com"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
